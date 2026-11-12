@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Masco
 
-<!--
-**mascoe/mascoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Data Analyst with a strong background in data platforms, ETL operations, and database management.
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack & Tools:
+* **Languages & Querying:** Python, SQL (PostgreSQL, Oracle Database, SQL Server, etc)
+* **Platforms & BI:** Dataiku DSS, Tableau, Metabase, Power BI
+* **Environment:** Dbeaver, VS Code, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 What I'm working on:
+* Developing automated monitoring pipelines and workflow optimizations in Dataiku DSS.
+* Building data analytics utilities and exploring data engineering workflows.
+
+---
+📫 How to reach me: Connect with me or check out my repositories for my latest projects and scripts!
